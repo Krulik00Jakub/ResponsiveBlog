@@ -15,7 +15,7 @@ import java.util.Collections;
 /**
  * The <class>Modular</class> class takes filepath info, and outputs the info in the file.
  * The purpose of this class is to make certain elements of a webpage modular and allow
- * java servlets to decide when and where to insert them.
+ * java servlets/JSP to decide when and where to insert them.
  * @author Jakub
  *
  */
@@ -172,4 +172,4 @@ public class Articles implements Comparable<Articles> {
 		return this.articles.get(this.articles.size()).date.compareTo(o.articles.get(o.articles.size()).date);
 	}
 	
-} // CAN I JUST TAKE THIS MOMENT TO SAY THAT i AM VERY PROUD OF THIS CODE. VERY OBJECT, MUCH ORIENTED OwO
+} 
