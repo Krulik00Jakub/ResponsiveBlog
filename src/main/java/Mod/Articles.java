@@ -148,21 +148,6 @@ public class Articles implements Comparable<Articles> {
 		return buf.toString();
 	}
 
-	
-	public static void main(String[] args) throws IOException {
-		Articles mod;
-		try {
-			mod = new Articles("C:\\Users\\Jakub\\eclipse-workspace\\Sinoling\\src\\main\\webapp\\content\\");
-		} catch (Exception e) {
-			throw new IOException(e);
-		}
-		
-		System.out.println(mod.content(0));
-		
-		String s = "This character is by far the simplest Chinese character to write. It consists of one horizontal stroke, and can be used to mean: one, a/an (article), and alone. The character 一 is also used as a radical and is the first of the radicals in the Kangxi dictionary (of which there are 214). The pronunciation in Mandarin is yi1, and in Cantonese is jat1. The goal of this blog is to introduce written Chinese to English speakers, thus, there will not be extensive discussion of the intricacies of spoken language, and how it varies between dialects.\r\n";
-		
-	}
-
 	public String files(int i) {
 		return files.get(i).toString();
 	}
