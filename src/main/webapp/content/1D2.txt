@@ -1,0 +1,12 @@
+2022-07-24
+
+Character: 二; er / ji6
+
+The character 二 is used to mean two. This seems fairly straightforward building off of the first character, 一. The first few Chinese numerals are similar to roman numerals since, they progressively add more strokes to symbolize quantity. At a first glance, the character 二 seems like it is constructed by building off of the character 一. This is not the case as, 二 is a radical on its own. The concept of radicals and categorization may seem redundant at this point in time, since all the characters introduced have been fairly simple, however; in following weeks it will become more and more apparent as to why such emphasis is placed on learning the radicals as well as the pronunciation and meanings of the characters.
+
+In this article, I would like to expand on the concept of radicals, and digital encoding of the Chinese writing system. The previous article introduced the character 一 and the concept of radicals as the 'building blocks' of Chinese characters. As mentioned before, each Chinese character is categorized under one of it's radicals in the Chinese dictionary. Each radical is encoded for separately in Unicode, along with all the characters commonly used in writing. In 1992, a new block of characters was introduced by Unicode in order to represent the 213 of the 214 radicals from the Kangxi dictionary 康熙部首 (kang1 xi1 bu4 shou3, lit. Kangxi radicals) [2; 745]. All of the radicals in the Kangxi dictionary have been added since, and they have maintained their position in the modern character set of Unicode 14.
+
+Examples of 二 being used as a radical are as follows:
+二 - since 《二》 is it's own radical.
+五 - Five, the two horizontal strokes are used as the radical.
+亍 - Stop/take small steps, two horizontal strokes constitute the radical [3; 亍].

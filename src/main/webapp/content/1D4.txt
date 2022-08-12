@@ -1,0 +1,13 @@
+2022-07-26
+
+Character: 四; si4 / sei3
+
+The character 四 continues this week's theme of Chinese numerals. It is not particularly obvious as to which radical the character 四 is categorized under. It could be either one of 2F1E_⼞ enclosure or 2F09_⼉ legs [3; 四]. The radical ⼞ would make sense since it is written first in the stroke order. In this case, 四 is categorized under ⼞. At this point, you may have already guessed that the character of the day is the numeral four. The previous three characters were all pictographs and the numbers that they represented were all obvious just from looking at them, however, with the character 四 it is not the case. Who would have imagined that the symbol for the number four would be a pair of legs within a box? In today's article, we will examine why exactly this is so.
+
+You may have noticed, from previous exposure to languages that use Han characters, that these languages are written in both the left to right top to bottom conformation, as well as in the top to bottom right to left 
+conformations. The character for 'four' used to be written in the deprecated form: 4E96_亖 [8; 四]. Since Chinese used to be written in an exclusively top to bottom left to right conformation, the character 亖 could be easily confused with the preceding characters 三 and 二. In order to prevent this confusion sometime before the beginning of the usage of seal script, the character for 'four' was changed to look similar to the character component 7F52_罒 (variation of radical 2F79_⽹). The usage of the character 罒 can be justified by imagining
+亖 tilted on its side with two horizontal strokes bordering it. By the time that manuscripts written on bamboo tablets were commonly used by authors and government clerks (~700 BC, lesser seal script), the character 四 had obtained a form nearly identical to that which is used today.
+
+While this historical analysis does explain why the character for 'four' is not simply four horizontal strokes, there is still no explanation as to why the character 四 is embodied by a glyph containing a pair of legs
+enclosed in a box. The justification of this peculiar feature can be left up to changes in the style of writing/calligraphy i.e., greater seal script to lesser seal script to clerical script. It is comparable to linguistic microevolution common in younger English-speaking generations. You may notice many new slang terms being coined on the street and sticking in popular usage of the language. To conclude this article, another interesting detail about the etymology of the Chinese language was examined. The character 四 may not be what you expect it to be at
+first, however, after a closer look, we see that it a familiar word and is not as complex as we first thought after all.

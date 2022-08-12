@@ -1,0 +1,25 @@
+2022-07-25
+
+Character: 三; san1 / saam3
+
+This character is composed of three horizontal strokes and like the previous two characters, is a number. You may already notice that the character 三 contains the radical 2F00_⼀. You may have noticed that it
+also looks like it could contain the radical 2F06_⼆. The top of the character also looks like it could fall under the archaic 2011F_𠄟 (older form of 下, meaning below). In actuality, the character 三 falls under the radical 2F00_⼀ that is, the bottom horizontal stroke. Unlike the previous two characters, 三 cannot act as a radical. You may have noticed that I have mentioned a few more components than usual in this introductory paragraph. This is because in this article, we will be taking a closer look at the formation of the Chinese
+writing system from a historical perspective.
+
+As I mentioned in previous articles, simple Chinese characters can be called ideographs and pictographs, however, more complicated characters are usually a combination of pictographic and/or ideographic components
+called radicals. The earliest Chinese inscriptions were dated to approximately to the 18th-12th century BC (Shang Dynasty) [4]. At that time the system already had its similarities to the contemporary Chinese writing system. Over the years, there were a few variations pertaining to the style and complexity of characters themselves. A few scripts that mark the principal moments in the evolution of the Chinese script are:
+
+甲骨文 (jia3 gu3 wen3) Oracle Bone Script -
+甲骨文 got its name because ancient fortune tellers (or oracles) used to write on bones and tortoise shells for the purpose of divination rituals. This system of writing was almost completely pictographic. This system had very little abstraction, causing the written language to be a quite literal interpretation of reality. Characters looked very much like their real-world counterparts [6].
+
+大傳 (da4 zhuan4) Great Seal (Script) -
+大傳 is called Seal Script because even after outliving its use in day to day writing, it was still used for the purpose of carving seals [8]. This script has a more uniform look than that of Oracle Bone Script. This is because, rather than being carved, it was typically painted onto bamboo tablets or silk. These characters were also pictographic, however; more characters were included, and the style was more refined. Great Seal is characterised by a balance of curved and straight lines with few sharp edges overall.
+
+小傳 (xiao3 zhuan4) Lesser Seal (Script) -
+The 小傳 script marked a turning point in the history of the Chinese writing system. This is because while the other scripts were pictographic, this script was logographic. This meaning that each character corresponds to a meaningful unit of language rather than a specific unit of thought i.e., idea [4].
+
+Other scripts were used throughout China's various dynasties, however, I have covered a few in this article in hopes of giving the reader a bigger picture about the structure of the Chinese writing system.
+
+Now that we have reviewed in part the systematic evolution of the Chinese writing system and came to the conclusion that contemporary Chinese characters are logographic in nature it is important to note that each glyph used in the cannon of Chinese literature still bears a meaning on its own even though it may not be used in such a way in modern texts. It can be said that contemporary Chinese is still ideographic even though it is not commonly used in that way. This is exemplified by words that would have no meaning on their own in English, yet have meanings, albeit often archaic, in Chinese. For example, the character 有 (you3 / jau5) can be used to express agreement but is generally used as the verb to have. The character also has an archaic meaning: existence. 有 is still used in this context in Japanese, however, no longer in Chinese.
+
+This brings us back to the character 三. 三 is used to mean three and is categorized under the Kangxi radical ⼀. 三 is not particularly special in itself, the meaning is very obvious to the reader as soon as they glance upon the character. Of course, as with other numerals, it is important for day-to-day communication, and one of the first characters that a novice studying the Chinese language should learn. To conclude today's article, a brief history of the various styles of Chinese writing were covered; further expanding on the nature of Han characters and their pictographic, ideographic, and logographic nature.
