@@ -7,5 +7,6 @@ This webpage was tested using Apache Tomcat with the Eclipse IDE.
 
 A preview of the final product can be viewed by running  [`scrolling.jsp`](ResponsiveBlog/src/main/webapp/scrolling.jsp)
 
+NOTE - *In progress*
 
 © Jakub Krulik 2022
