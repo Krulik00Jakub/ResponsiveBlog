@@ -5,7 +5,7 @@ I plan on migrating the file-based paradigm to a `SQL-based database` in the nea
 
 This webpage was tested using Apache Tomcat with the Eclipse IDE.
 
-A preview of the final product can be viewed by running  [`scrolling.jsp`](ResponsiveBlog/src/main/webapp/scrolling.jsp)
+A preview of the final product can be viewed by running  [`scrolling.jsp`](ResponsiveBlog/blob/main/src/main/webapp/scrolling.jsp)
 
 **NOTE** - In progress
 
