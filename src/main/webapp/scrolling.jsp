@@ -25,6 +25,3 @@
 
 </body>
 </html>
-
-<!-- UMMMMMMM, UHMMMMMMM, IT'S GIVING ME WEIRD OUTPUT ~
-RESOLVED!!!-->
